@@ -12,7 +12,7 @@ Feel free to explore and reach out if you'd like to collaborate or have any ques
 
 ## Contact
 
-**Email**: josearosemena2@gmail.com
+**Email**: josearosemena2@gmail.com  
 **LinkedIn**: [linkedin.com/in/jose-arosemena](https://www.linkedin.com/in/jose-arosemena/)
 
 
