@@ -8,5 +8,5 @@ Feel free to explore and reach out if you'd like to collaborate or have any ques
 
 ## Contact
 
-- **Email**: jose.arosemena@example.com
-- **LinkedIn**: [linkedin.com/in/josearosemena](https://linkedin.com/in/josearosemena)
+- **Email**: josearosemena2@gmail.com
+- **LinkedIn**: [linkedin.com/in/josearosemena](https://www.linkedin.com/in/jose-arosemena/)
