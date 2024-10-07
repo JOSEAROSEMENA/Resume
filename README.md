@@ -2,7 +2,9 @@
 
 # Jose Arosemena 
 
-![Profile Picture](.ProHeadshot.jfif) 
+<p align="center">
+  <img src=".ProHeadshot.jfif" alt="Profile Picture" />
+</p>
 
 ## Introduction
 
