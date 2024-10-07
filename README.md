@@ -2,7 +2,7 @@
 
 # Jose Arosemena 
 
-<img src=".ProHeadshot.jfif" alt="Profile Picture" />
+<img src="ProHeadshot.jfif" alt="Profile Picture" />
 
 ## Introduction
 
