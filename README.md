@@ -1,6 +1,6 @@
 # Jose Arosemena 
 <p align="center">
-  <img src=".ProHeadshot.jfif" alt="Profile Picture" />
+  <img src="ProHeadshot.jfif" alt="Profile Picture" />
 </p>
 ## Introduction
 
