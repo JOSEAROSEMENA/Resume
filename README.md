@@ -2,7 +2,7 @@
 
 # Jose Arosemena 
 
-![Profile Picture](.ProdHeadshot.jfif) 
+![Profile Picture](.ProHeadshot.jfif) 
 
 ## Introduction
 
@@ -12,8 +12,8 @@ Feel free to explore and reach out if you'd like to collaborate or have any ques
 
 ## Contact
 
-- **Email**: josearosemena2@gmail.com
-- **LinkedIn**: [linkedin.com/in/jose-arosemena](https://www.linkedin.com/in/jose-arosemena/)
+**Email**: josearosemena2@gmail.com
+**LinkedIn**: [linkedin.com/in/jose-arosemena](https://www.linkedin.com/in/jose-arosemena/)
 
 
 
