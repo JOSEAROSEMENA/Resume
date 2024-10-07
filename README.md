@@ -1,7 +1,8 @@
+<div align="center">
+
 # Jose Arosemena 
-<p align="center">
-  <img src="ProHeadshot.jfif" alt="Profile Picture" />
-</p>
+
+![Profile Picture](https://example.com/my-profile-pic.jpg) 
 
 ## Introduction
 
@@ -11,5 +12,9 @@ Feel free to explore and reach out if you'd like to collaborate or have any ques
 
 ## Contact
 
-- **Email**: josearosemena2@gmail.com
-- **LinkedIn**: [linkedin.com/in/josearosemena](https://www.linkedin.com/in/jose-arosemena/)
+- **Email**: jose.arosemena@example.com
+- **LinkedIn**: [linkedin.com/in/josearosemena](https://linkedin.com/in/josearosemena)
+
+
+
+</div>
